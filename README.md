@@ -1,4 +1,9 @@
 # Groupiee-DevJams21-GDSC
+# Content
+ # [About Groupiee](https://github.com/VaishnaviYRathod/Groupiee-DevJams21-GDSC/blob/main/README.md#about-groupiee)
+# [Features](https://github.com/VaishnaviYRathod/Groupiee-DevJams21-GDSC/blob/main/README.md#features)
+# [How to set up](https://github.com/VaishnaviYRathod/Groupiee-DevJams21-GDSC/blob/main/README.md#how-to-set-up)
+# [How to run](https://github.com/VaishnaviYRathod/Groupiee-DevJams21-GDSC/blob/main/README.md#how-to-run)
 # About Groupiee
 
 
